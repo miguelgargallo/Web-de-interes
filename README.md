@@ -1,5 +1,5 @@
 # Web-de-interes
 Webs de interés
 
-09/13/22 - Necesito instalar postgradeSQL seguro en un servidor.
+09/13/22 06:31 pm Necesito instalar postgradeSQL seguro en un servidor.
 [postgresql](https://computingforgeeks.com/installing-postgresql-database-server-on-ubuntu/)
